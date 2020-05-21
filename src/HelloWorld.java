@@ -10,6 +10,6 @@ public class HelloWorld extends HttpServlet {
  protected void doGet(HttpServletRequest request, HttpServletResponse response)
  throws ServletException, IOException {
  PrintWriter out = response.getWriter();
- out.println("<html><body>Watari_no_Test!</body></html>");
+ out.println("<html><body>AFK</body></html>");
  }
 }
